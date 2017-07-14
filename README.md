@@ -37,4 +37,4 @@ This addons depends on [Alfresco PDF Toolkit actions](https://github.com/ntmcmin
 
 This module has to be deployed after every PDF Toolkit action module, so check [http://localhost:8080/share/page/modules/deploy](http://localhost:8080/share/page/modules/deploy) to modify your Alfresco installation properly.
 
-![alfresco-share-modules-deployment](https://cloud.githubusercontent.com/assets/5584952/26724443/b9c0bda8-4799-11e7-978d-6da9a4ca802f.png)
+![alfresco-pdf-toolkit-custom](https://user-images.githubusercontent.com/5584952/28216362-adb872c4-68b1-11e7-8d73-872bc255df30.png)
